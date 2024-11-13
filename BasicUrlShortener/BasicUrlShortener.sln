@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicUrlShortener.Api", "BasicUrlShortener.Api\BasicUrlShortener.Api.csproj", "{AD4F95CF-F005-433D-B04A-33DA230D72CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicUrlShortener.Web", "BasicUrlShortener.Web\BasicUrlShortener.Web.csproj", "{B1F8B0F9-F805-4C3A-8BAA-421855D16242}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicUrsShortener.Shared", "BasicUrsShortener.Shared\BasicUrsShortener.Shared.csproj", "{284CEE87-99A6-4025-A656-9EDC0E5EFAC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD4F95CF-F005-433D-B04A-33DA230D72CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD4F95CF-F005-433D-B04A-33DA230D72CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD4F95CF-F005-433D-B04A-33DA230D72CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD4F95CF-F005-433D-B04A-33DA230D72CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1F8B0F9-F805-4C3A-8BAA-421855D16242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1F8B0F9-F805-4C3A-8BAA-421855D16242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1F8B0F9-F805-4C3A-8BAA-421855D16242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1F8B0F9-F805-4C3A-8BAA-421855D16242}.Release|Any CPU.Build.0 = Release|Any CPU
+		{284CEE87-99A6-4025-A656-9EDC0E5EFAC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{284CEE87-99A6-4025-A656-9EDC0E5EFAC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{284CEE87-99A6-4025-A656-9EDC0E5EFAC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{284CEE87-99A6-4025-A656-9EDC0E5EFAC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
